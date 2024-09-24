@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "4.21.0",
+    "node": "22.9.0",
+    "path": "0.12.7"
+  },
+  "name": "finalprojectweb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "scripts": {
+    "dev": "node --watch app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
